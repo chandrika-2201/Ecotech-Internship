@@ -2,7 +2,7 @@
 
 A stunning, fully responsive portfolio website showcasing my skills, projects, and achievements as a Computer Science Engineering student specializing in Data Science and Full Stack Development.
 
-![Portfolio Preview](screenshots/hero-section.png)
+![Portfolio Preview](screenshots/1.png)
 
 ## Color Palette
 
@@ -288,5 +288,6 @@ If you have any questions or need help with the portfolio:
 ---
 
 **Star this repository if you find it helpful!**
+
 
 Made with love by Siva Chandrika Mogili | © 2025
